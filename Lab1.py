@@ -11,4 +11,4 @@ def input_output():
     age = int(input("Enter your age: ")
     height = float(input("Enter your height: ")
 
-    print("Your name is" + name + ", you are" + age + "and you are" + height + "tall .")
+    print("Hello, " + name + "!" )
